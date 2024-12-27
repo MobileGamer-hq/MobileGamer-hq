@@ -11,8 +11,6 @@
 
 ## 🚀 About Me  
 
-- 🌱 **Learning:** ROS, PyBullet, MongoDB, React with TypeScript, Expo  
-- 💻 **Working On:** Backend for an online store, Analytics for sellers, Robotics simulations  
 - 📚 **Passions:** Robotics, AI, Game Development, and Philosophy  
 - 🎯 **Goal:** Becoming a Robotics Engineer and innovating in tech  
 
@@ -29,6 +27,7 @@
 
 ### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
@@ -43,7 +42,8 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SomtochukwuDuru)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somto2007)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somtoduru07@gmail.com)
 
 ---
@@ -52,11 +52,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MobileGamer-hq&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomtochukwuPhillipDuru&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobileGamer-hq&theme=radical" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SomtochukwuPhillipDuru&theme=radical" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MobileGamer-hq&theme=radical" alt="Activity Graph" />
 </div>
