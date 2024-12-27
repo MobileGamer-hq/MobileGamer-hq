@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SomtochukwuPhillipDuru&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MobileGamer-hq&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomtochukwuPhillipDuru&theme=radical" />
 </div>
 
